@@ -34,7 +34,7 @@ export default function Contact() {
     if (!contactForm) {
         return <p>Loading...</p>;
     }
-
+    
     return (
        <div className={styles.container}>
             <div className={styles.contactForm}>
