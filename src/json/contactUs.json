@@ -1,0 +1,41 @@
+{
+  "contactPage": {
+      "contactForm": {
+          "label": "Contact Us",
+          "fields": [
+              {
+                  "type": "text",
+                  "name": "name",
+                  "label": "Name",
+                  "placeholder": "Your name",
+                  "required": true
+              },
+              {
+                  "type": "email",
+                  "name": "email",
+                  "label": "Email",
+                  "placeholder": "Your email",
+                  "required": true
+              },
+              {
+                  "type": "number",
+                  "name": "phone",
+                  "label": "Phone Number",
+                  "placeholder": "Your phone number",
+                  "required": true
+              },
+              {
+                  "type": "textarea",
+                  "name": "message",
+                  "label": "Message",
+                  "placeholder": "Your message",
+                  "required": true
+              }
+          ],
+          "button": {
+              "type": "submit",
+              "text": "Send Message"
+          }
+      }
+  }
+}

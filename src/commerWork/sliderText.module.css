@@ -1,0 +1,27 @@
+/* components/HelloMessage.module.css */
+.message {
+  margin: var(--container-margin);
+    position: absolute;
+    top: 50%;
+    left: -100px; /* Start position off-screen */
+    transform: translateY(-40%);
+    font-size: 2em;
+    opacity: 0;
+    transition: left 1s ease-in-out, opacity 1s ease-in-out; /* Smooth animation */
+  }
+  
+  .visible {
+    font-family: Climate Crisis;
+    color: rgb(255 230 203 / 72%);  
+    font-size: 2rem;
+    font-weight: bold;
+    left: 250px; /* Final position on-screen */
+    opacity: 1;  /* Make it fully visible */
+    /* transition: color 0.5s ease-in-out; */
+  }
+  .visible:hover{
+    /* color: rgb(255 230 203 / 72%); */
+    color: white;
+      transition: 0.5s ease-in-out;
+  }
+  

@@ -1,0 +1,12 @@
+.mainContainer{
+    background-color: black;
+    display: flex;
+    color: white;
+    flex-direction: column;
+    align-items: center;
+
+}
+.innerContainer{
+    width: 80%;
+    padding:2%
+}

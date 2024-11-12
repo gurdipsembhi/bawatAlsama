@@ -1,0 +1,57 @@
+[
+    {
+      "category": "Residential",
+      "url": "/image/1.jpeg",
+      "title": "Cozy Living Room",
+      "description": "A cozy living room designed for residential purposes."
+    },
+    {
+      "category": "Offices",
+      "url": "/image/office1photo1.jpg",
+      "title": "Modern Office Space",
+      "description": "Modern office space with a sleek design."
+    },
+    {
+      "category": "Villa",
+      "url": "/image/livingroom.jpg",
+      "title": "Luxurious Villa Living Room",
+      "description": "Luxurious villa living room with elegant furnishings."
+    },
+    {
+      "category": "Residential",
+      "url": "/image/bedroom.jpg",
+      "title": "Stylish Bedroom Interior",
+      "description": "Stylish and comfortable bedroom interior."
+    },
+    {
+      "category": "Residential",
+      "url": "/image/bedroom1.jpg",
+      "title": "Beautiful Bedroom View",
+      "description": "Another view of a beautifully designed residential bedroom."
+    },
+    {
+      "category": "Offices",
+      "url": "/image/office1photo2.jpg",
+      "title": "Collaborative Office Workspace",
+      "description": "Office workspace with collaborative areas."
+    },
+    {
+      "category": "Offices",
+      "url": "/image/office1photo3.jpg",
+      "title": "Open-Plan Office",
+      "description": "Open-plan office with modern decor."
+    },
+    {
+      "category": "Offices",
+      "url": "/image/office1photo4.jpg",
+      "title": "Organized Office",
+      "description": "A well-organized office with ergonomic furniture."
+    },
+    {
+      "category": "Appartment",
+      "url": "/image/livingRoomphoto1.png",
+      "title": "Chic Apartment Living Room",
+      "description": "Chic apartment living room with contemporary style."
+    }
+  ]
+  

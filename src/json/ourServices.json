@@ -1,0 +1,50 @@
+{
+    "services": [
+      {
+        "title": "Residential Design & Build",
+        "description": "We deliver personalized interior design and build services for residential projects across UAE and the region; complete refurbishments, extensions, existing space conversions, and top-notch renovations.",
+        "link_text": "Read More"
+      },
+      {
+        "title": "Corporate Design & Build",
+        "description": "We create a space that represents the DNA of your brand – each detail is crafted keeping the brand’s personality in mind so that it helps clients understand your business, captures your brand values, and connects your team. It can also have the power to transform employee well-being and boost productivity.",
+        "link_text": "Read More"
+      },
+      {
+        "title": "Landscaping",
+        "description": "Because your home is your ultimate sanctuary, we create award-winning landscape designs that will give it an instant appeal and value. Keep wandering eyes at bay with a beautifully decorated privacy hedge, planted and groomed to perfection with our artistic landscape designs and quality services.",
+        "link_text": "Read More"
+      },
+      {
+        "title": "Swimming Pool",
+        "description": "Poolside is the best side and many memories made at the pool last a lifetime. Allow us to customize an outdoor living experience for taste, mood, and unforgettable moments. We use our Pro Edge professionals to set a new benchmark in pool Design & Build quality.",
+        "link_text": "Read More"
+      },
+      {
+        "title": "Design Consultancy",
+        "description": "Since we believe that everyone deserves to live in a beautifully designed space, we offer a complete turn-key interior design solution that takes away the hustle and gives you the joy of choosing your personal design options from the comfort of your space.",
+        "link_text": "Read More"
+      },
+      {
+        "title": "Bespoke Furniture Design",
+        "description": "We design and customize furniture that blends with your brand, using our aesthetic sense and creativity in response to the taste of usage of that space. The right selection of materials are carefully made by our range of talented designers so that we can bring comfort to your life.",
+        "link_text": "Read More"
+      },
+      {
+        "title": "Retail",
+        "description": "We not only design and build retail experiences, but also a destination that influences brand loyalty and purchasing behavior by engaging interior store design combined with all needed elements. Our design journey starts from your customer consideration, your market as well as your brand, which we craft to maximize the time spent.",
+        "link_text": "Read More"
+      },
+      {
+        "title": "Hospitality",
+        "description": "We provide extraordinary hospitality design and build, fueled by the power of creative solutions and harnessing the potential of out-of-the-box ideas to help brands achieve their objectives, creating some of the iconic and remarkable projects.",
+        "link_text": "Read More"
+      },
+      {
+        "title": "F&B",
+        "description": "A good-looking restaurant layout is a key to attracting customers and keeping them coming back. Understanding this fact, we bring together a number of elements that ensure a successful project. Think of us as your ideas people, your contractor, your project manager, your removal company, and your maintenance support.",
+        "link_text": "Read More"
+      }
+    ]
+  }
+  

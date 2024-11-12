@@ -1,0 +1,16 @@
+.mainContainer{
+    max-width: 1440px;
+    width: 100%;
+    margin: 7rem auto;
+    display: flex;
+    padding: 0 2rem;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.heading{
+    font-size: 28px;
+    font-weight: 700;
+    padding-bottom: var(--pading);
+    
+}

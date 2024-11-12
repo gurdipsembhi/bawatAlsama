@@ -1,0 +1,18 @@
+.container {
+  padding: 4rem 0rem;
+  color: white;
+  background-color: black;
+}
+
+.widthprovider {
+  max-width: 1440px;
+  width: 100%;
+  display: flex;
+  gap: 40%;
+  margin: 0 auto;
+  justify-content: center;
+}
+.innercontainerSecond{
+  display: flex;
+  gap: 10%;
+}

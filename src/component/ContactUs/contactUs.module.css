@@ -1,0 +1,100 @@
+/* Define classes instead of global selectors */
+.title {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+    color: #2c3e50;
+  }
+  
+  .subtitle {
+    font-size: 1.5em;
+    margin-top: 40px;
+    margin-bottom: 15px;
+    border-bottom: 2px solid #ecf0f1;
+    padding-bottom: 5px;
+    color: #2c3e50;
+  }
+  
+  .container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: 'Arial', sans-serif;
+    color: #333;
+  }
+  
+  .text {
+    font-size: 1.1em;
+    line-height: 1.6;
+    margin-bottom: 15px;
+  }
+  
+  .contactMethods, .socialMedia, .map, .contactForm {
+    margin-bottom: 40px;
+  }
+  
+  .contactMethods p, .contactForm div {
+    margin-bottom: 10px;
+  }
+  
+  .contactForm label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .contactForm input, .contactForm textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #bdc3c7;
+    border-radius: 5px;
+    font-size: 1em;
+  }
+  
+  .contactForm textarea {
+    height: 100px;
+    resize: vertical;
+  }
+  
+  .contactForm button {
+    background-color: #2980b9;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 1em;
+    cursor: pointer;
+  }
+  
+  .contactForm button:hover {
+    background-color: #3498db;
+  }
+  
+  .socialMedia ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .socialMedia li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  .socialMedia a {
+    text-decoration: none;
+    color: #2980b9;
+  }
+  
+  .socialMedia a:hover {
+    color: #3498db;
+    text-decoration: underline;
+  }
+  
+  .map iframe {
+    width: 100%;
+    height: 400px;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  }
+  
