@@ -32,7 +32,7 @@ export default function Contact() {
     };
 
     if (!contactForm) {
-        return <p>Loading...</p>;
+        return <p>Loading......</p>;
     }
     
     return (
